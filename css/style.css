@@ -177,6 +177,17 @@ header {
 	min-height:770px;
 	position: relative;
 }
+.contactbanner{
+	background:url(../images/contactbanner.jpg) no-repeat 0px 0px;
+	background-size:cover;
+	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	-o-background-size:cover;
+	-ms-background-size:cover;
+	min-height:770px;
+	position: relative;
+}
+
 .banner-layer {
     background: url(../images/layer.png)repeat;
       background: rgba(0, 0, 0, 0.5);
